@@ -79,5 +79,5 @@ Após baixar o projeto, cria o banco, fazer a importação do banco que esta na 
 
 ## Desenvolvedor
 
-| [<img src="https://avatars.githubusercontent.com/u/137619531?v=4 width=115><br><sub>Walter Lopes de Souza</sub>](https://github.com/wlsouzaa) |
+| [<img src="https://avatars.githubusercontent.com/u/137619531?v=4" width=115><br><sub>Walter Lopes de Souza</sub>](https://github.com/wlsouzaa) |
 | :---: |
